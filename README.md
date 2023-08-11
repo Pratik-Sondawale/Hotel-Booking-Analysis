@@ -6,10 +6,10 @@ Explore and analyze the data to discover important factors that govern the booki
 
 Content of exploratory data analysis.
 
-Where do the guests come from?
-How much do guests pay for a room per night?
-How does the price per night vary over the year?
-Which are the busiest month?
+-Where do the guests come from?
+-How much do guests pay for a room per night?
+-How does the price per night vary over the year?
+-Which are the busiest month?
 How long do people stay at the hotels?
 Bookings by market segment
 How many bookings were canceled?
